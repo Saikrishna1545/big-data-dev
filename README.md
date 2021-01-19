@@ -1,5 +1,8 @@
 # big-data-dev
 
+## Sai
+![](https://github.com/Saikrishna1545/big-data-dev/blob/main/IMG_E1709.JPG)
+
 ## Current 
  currently I am in  my last semester on my Masters in Applied Computer Science, I have taken Graduate Directed Project - II , Big Data and machine learning  for this final semester.
  
